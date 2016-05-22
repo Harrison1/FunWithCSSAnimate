@@ -1,2 +1,2 @@
 # FunWithCSSAnimate
-Having fun with animate.css
+Having fun with css animations
